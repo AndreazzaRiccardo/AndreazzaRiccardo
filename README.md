@@ -1,9 +1,17 @@
 <h1 align="center">Ciao 👋, Sono Riccardo</h1>
 <h3 align="center">Sono un Jr. Full Stack Web Developer 🚀</h3>
 
+<h3 align="center">About Me:</h3>
+
+<p>💻 Sono un ragazzo da sempre appassionato di tecnologia, e finalmente ho deciso di mettermi in gioco e approfondire il campo della programmazione.</p>
+<p>📚 Ho deciso quindi di cominciare a studiare a apprendere il più possibile di questo mondo, e mi sono iscritto al corso di Boolean !</p>
+<p>📝 Attualmente sto lavorando ad un progetto full-stack, per affinare il più possibile le skills apprese fino ad ora.</p>
+<p>🌱 Sono una persona molto equilibrata e gentile, mi integro tranquillamente in qualunque Team contribuendo quanto più mi è possibile.</p>
+<p>🤝 Sono quindi alla ricerca di un'azienda in grado di farmi crescere e di accompagnarmi in questo straordinario percorso !!!</p>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riccardo-andreazza-066a902b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riccardo-andreazza-066a902b3/" height="30" width="40" /></a>
+<p align="center">
+<a href="/https://www.linkedin.com/in/riccardo-andreazza-066a902b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riccardo-andreazza-066a902b3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
