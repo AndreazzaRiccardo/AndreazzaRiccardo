@@ -9,7 +9,7 @@
 - 📚 Ho deciso quindi di cominciare a studiare prima da autodidatta e successivamente inscrivendomi al corso Boolean, per apprendere il più possibile di questo mondo !  
   
 
-- 📝 Attualmente sto lavorando ad un progetto full-stack, per affinare il più possibile le skills apprese fino ad ora.  
+- 📝 Attualmente ho appena finito di sviluppare un progetto full-stack, ed ora sto andando avanti a studiare, per affinare il più possibile le skills apprese fino ad ora.  
   
 
 - 🌱 Sono una persona molto equilibrata e gentile, mi integro tranquillamente in qualunque Team contribuendo sempre a creare un'ambiente sereno, impegnandomi al 100% in tutto quello che faccio ! 
