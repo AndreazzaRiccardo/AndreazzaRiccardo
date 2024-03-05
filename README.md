@@ -6,16 +6,16 @@
 - 💻 Sono un ragazzo da sempre appassionato di tecnologia, e finalmente ho deciso di mettermi in gioco e approfondire il campo della programmazione.  
   
 
-- 📚 Ho deciso quindi di cominciare a studiare a apprendere il più possibile di questo mondo, e mi sono iscritto al corso di Boolean !  
+- 📚 Ho deciso quindi di cominciare a studiare prima da autodidatta e successivamente inscrivendomi al corso Boolean, per apprendere il più possibile di questo mondo !  
   
 
 - 📝 Attualmente sto lavorando ad un progetto full-stack, per affinare il più possibile le skills apprese fino ad ora.  
   
 
-- 🌱 Sono una persona molto equilibrata e gentile, mi integro tranquillamente in qualunque Team contribuendo quanto più mi è possibile.  
+- 🌱 Sono una persona molto equilibrata e gentile, mi integro tranquillamente in qualunque Team contribuendo sempre a creare un'ambiente sereno, impegnandomi al 100% in tutto quello che faccio ! 
   
 
-- 🤝 Sono quindi alla ricerca di un'azienda in grado di farmi crescere e di accompagnarmi in questo straordinario percorso !!!  
+- 🤝 Sono alla ricerca del mio posto in questo mondo, e spero di riuscire a trovare un'azienda in grado di farmi crescere e di accompagnarmi in questo straordinario percorso !!!  
   
 
 <br/>  
