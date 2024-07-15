@@ -3,16 +3,16 @@
 <br/>
   
 
-- 💻 Sono un ragazzo da sempre appassionato di tecnologia, e finalmente ho deciso di mettermi in gioco e approfondire il campo della programmazione.  
+- 💻 Appassionato di tecnologia da sempre, ho finalmente ho deciso di mettermi in gioco e approfondire nel campo della programmazione.  
   
 
-- 📚 Ho deciso quindi di cominciare a studiare prima da autodidatta e successivamente inscrivendomi al corso Boolean, per apprendere il più possibile di questo mondo !  
+- 📚 Ho deciso quindi di cominciare a studiare, prima da autodidatta e successivamente iscrivendomi a Boolean, cosa che mi ha permesso di apprendere molteplici linguaggi e sviluppare diversi progetti completi.  
   
 
-- 📝 Attualmente ho appena finito di sviluppare un progetto full-stack, ed ora sto andando avanti a studiare, per affinare il più possibile le skills apprese fino ad ora.  
+- 📝 Al termine di questo percorso son stato selezionato per un ulteriore corso Java somministrato al fine di ottenere la certificazione Oracle.  
   
 
-- 🌱 Sono una persona molto equilibrata e gentile, mi integro tranquillamente in qualunque Team contribuendo sempre a creare un'ambiente sereno, impegnandomi al 100% in tutto quello che faccio ! 
+- 🌱 Sono una persona molto proattiva, equilibrata e gentile, qualità che mi permettono di integrarmi bene in qualunque Team contribuendo sempre a creare un'ambiente sereno e impegnandomi al 100% in tutto quello che faccio ! 
   
 
 - 🤝 Sono alla ricerca del mio posto in questo mondo, e spero di riuscire a trovare un'azienda in grado di farmi crescere e di accompagnarmi in questo straordinario percorso !!!  
