@@ -9,13 +9,11 @@
 - 📚 Ho deciso quindi di cominciare a studiare, prima da autodidatta e successivamente iscrivendomi a Boolean, cosa che mi ha permesso di apprendere molteplici linguaggi e sviluppare diversi progetti completi.  
   
 
-- 📝 Al termine di questo percorso son stato selezionato per un ulteriore corso Java somministrato al fine di ottenere la certificazione Oracle.  
+- 📝 Al termine di questo percorso son stato selezionato per un ulteriore corso Java che mi ha permesso, a seguito di un esame, di ottenere un ulteriore certificazione Oracle.  
   
 
 - 🌱 Sono una persona molto proattiva, equilibrata e gentile, qualità che mi permettono di integrarmi bene in qualunque Team contribuendo sempre a creare un'ambiente sereno e impegnandomi al 100% in tutto quello che faccio ! 
-  
 
-- 🤝 Sono alla ricerca del mio posto in questo mondo, e spero di riuscire a trovare un'azienda in grado di farmi crescere e di accompagnarmi in questo straordinario percorso !!!  
   
 
 <br/>  
